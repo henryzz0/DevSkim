@@ -238,7 +238,7 @@
     "pack-ext": "gulp setPackageVersion && vsce package && gulp resetPackageVersion"
   },
   "dependencies": {
-    "nerdbank-gitversioning": "^3.1.91",
+    "nerdbank-gitversioning": "^3.4.220",
     "recursive-readdir": "^2.2.2"
   },
   "devDependencies": {
